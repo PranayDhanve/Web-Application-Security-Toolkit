@@ -13,7 +13,7 @@ A **Python-based Web Security Scanner** that automatically **crawls a website**,
 **📥 Installation & Setup**
 1️⃣** Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/WebSecurityScanner.git
+https://github.com/PranayDhanve/Web-Application-Security-Toolkit.git
 cd WebSecurityScanner
 
 2️⃣ Install Dependencies
